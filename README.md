@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 ### 📝 About Me: 
-Hello, my name is Luan Carlos, I'm 22 years old.
+Hello, my name is Luan Carlos, I'm 23 years old.
  
 I am brazilian 🇧🇷 and currently studing to be an Automation Engineer.
 
