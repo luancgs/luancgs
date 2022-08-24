@@ -1,21 +1,27 @@
-<h1 align="center">Hi there 👋</h1>
+![Luan's GitHub Banner](./images/GithubBanner.png)
 
-### 📝 About Me: 
+<p align="center">
+  <a href="https://www.linkedin.com/in/luan-carlos-gs/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+ </a>
+<a href="mailto:luan.carlos.3174@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+</p>
+
+### 📝 About Me:
+
 Hello, my name is Luan Carlos, I'm 23 years old.
- 
-I am brazilian 🇧🇷 and currently studing to be an Automation Engineer.
 
-Working as a Backend Developer at [D3 Company](https://github.com/d3estudio).
-
-#### Catch me in: 
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-carlos-gs/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luan.carlos.3174@gmail.com)
+- 😄 Pronouns: He/Him
+- 🇧🇷 I am brazilian and currently studing to be an Automation Engineer.
+- 🔭 I’m currently working as a Backend Developer at [D3 Company](https://github.com/d3estudio).
+- 🌱 Learning to automatize tasks usings scripts in Bash, Lua and JS.
 
 ### GitHub Status
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=luancgs&show_icons=true&theme=tokyonight)
 
-### Most used languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luancgs&theme=tokyonight)
+| ![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luancgs&show_icons=true&theme=tokyonight) | ![Luan's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luancgs&theme=tokyonight) |
+| :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
 
 ### Languages
 
@@ -33,7 +39,7 @@ Working as a Backend Developer at [D3 Company](https://github.com/d3estudio).
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Redis](	https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <!--
