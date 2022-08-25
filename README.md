@@ -14,7 +14,7 @@
 Hello, my name is Luan Carlos, I'm 23 years old.
 
 - 😄 Pronouns: He/Him
-- 🇧🇷 I am brazilian and currently studing to be an Automation Engineer.
+- 🇧🇷 I am brazilian and currently studying to be an Automation Engineer.
 - 🔭 I’m currently working as a Backend Developer at [D3 Company](https://github.com/d3estudio).
 - 🌱 Learning to automatize tasks usings scripts in Bash, Lua and JS.
 
